@@ -1,2 +1,15 @@
 # TDD.Calculadora
-Coding Dojo para simulação de TDD
+
+Aplicação exemplo é uma "calculadora de descontos" em C# que foi utilizada para introduzir a abordagem de TDD 
+
+Exemplos da pirâmide de testes 
+https://martinfowler.com/bliki/TestPyramid.html
+
+- Testes unitários com Moq
+- Teste de integração com DB
+- Teste de UI com Selenium
+
+Packages:
+- NUnit
+- NUnit3TestAdapter
+- Selenium.WebDriver
