@@ -1,4 +1,4 @@
-# TDD.Calculadora
+# Testes automatizados - Calculadora de Desconto
 
 Aplicação exemplo é uma "calculadora de descontos" em C# que foi utilizada para introduzir a abordagem de TDD 
 
