@@ -12,6 +12,8 @@ https://martinfowler.com/bliki/TestPyramid.html
 Packages:
 - NUnit
 - NUnit3TestAdapter
-- Selenium.WebDriver
+- Moq
+- Selenium.WebDriver.IEDriver
+
 
 O banco de dados exemplo se encontra em TDD.Ecommerce.Service/LocalDatabase, necessário configurar o caminho do DB no arquivo ConnectionString.config
