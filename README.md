@@ -13,3 +13,5 @@ Packages:
 - NUnit
 - NUnit3TestAdapter
 - Selenium.WebDriver
+
+O banco de dados exemplo se encontra em TDD.Ecommerce.Service/LocalDatabase, necessário configurar o caminho do DB no arquivo ConnectionString.config
