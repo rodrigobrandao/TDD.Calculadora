@@ -1,0 +1,18 @@
+﻿@{
+    ViewBag.Title = "Calculo Ecommerce";
+}
+<h2>@ViewBag.Title.</h2>
+<h3>@ViewBag.Message</h3>
+
+
+<form action="CalculoEcommerce" method="post">
+
+    Digite o valor do Pedido: <input type="text" name="txtValor" id="txtValor" />
+
+    <address>
+        <strong><input type="submit" value="Calcular Desconto" id="btnCalcular" name="btnCalcular" /></strong>
+    </address>
+
+    <h3>Valor do pedido com desconto:  <div id="divValorPedidoComDesconto" style="color:red">@ViewBag.ValorPedidoComDesconto</div> </h3>
+
+</form>
